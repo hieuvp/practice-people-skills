@@ -13,6 +13,7 @@
   - [Mentor](#mentor)
   - [Coach](#coach)
   - [Teacher](#teacher)
+  - [Brainstorm](#brainstorm)
 - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -32,6 +33,8 @@
 ### Coach
 
 ### Teacher
+
+### Brainstorm
 
 ## References
 
