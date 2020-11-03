@@ -43,6 +43,7 @@
 - [Amazon - How to Work for an Idiot, Revised and Expanded with More Idiots, More Insanity, and More Incompetency: Survive and Thrive Without Killing Your Boss](https://www.amazon.com/Revised-Expanded-Idiots-Insanity-Incompetency-ebook/dp/B07J1FVZZ1)
 - [Amazon - Getting More: How to Negotiate to Achieve Your Goals in the Real World](https://www.amazon.com/Getting-More-Negotiate-Achieve-Goals/dp/0307749126)
 - [Management 101](https://app.pluralsight.com/library/courses/management-101)
+- [Moving from Technical Professional to Management](https://app.pluralsight.com/library/courses/moving-technical-professional-management)
 - [Becoming a Change Leader](https://app.pluralsight.com/library/courses/becoming-change-leader)
 - [Understanding and Applying Leadership Styles](https://app.pluralsight.com/library/courses/understanding-applying-leadership-styles)
 - [Prioritizing Tasks and Managing Time for Greater Productivity](https://app.pluralsight.com/library/courses/prioritizing-tasks-managing-time-greater-productivity)
