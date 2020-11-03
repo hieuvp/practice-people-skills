@@ -49,4 +49,6 @@
 - [Understanding and Applying Leadership Styles](https://app.pluralsight.com/library/courses/understanding-applying-leadership-styles)
 - [Prioritizing Tasks and Managing Time for Greater Productivity](https://app.pluralsight.com/library/courses/prioritizing-tasks-managing-time-greater-productivity)
 - [Time Management – Maximizing Your Productivity](https://app.pluralsight.com/library/courses/maximizing-your-productivity-time-management)
+- [Developing a Team and Its Culture](https://app.pluralsight.com/library/courses/developing-team-culture)
+- [Leadership and Communication Skills for Software Engineers](https://app.pluralsight.com/library/courses/leadership-communication-software-engineers)
 - [Masterful Leaders – The Leader as Coach, Mentor and Teacher](https://gothamculture.com/2019/04/11/masterful-leaders-the-leader-coach-mentor-teacher)
