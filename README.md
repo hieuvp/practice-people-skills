@@ -7,6 +7,8 @@
 
 - [Books](#books)
   - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](#the-managers-path-a-guide-for-tech-leaders-navigating-growth-and-change)
+- [Courses](#courses)
+  - [Management 101](#management-101)
 - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -14,6 +16,10 @@
 ## Books
 
 ### [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](books/managers-path-leaders-navigating-growth.pdf)
+
+## Courses
+
+### Management 101
 
 ## References
 
