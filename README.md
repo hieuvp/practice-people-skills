@@ -44,5 +44,6 @@
 - [Amazon - Getting More: How to Negotiate to Achieve Your Goals in the Real World](https://www.amazon.com/Getting-More-Negotiate-Achieve-Goals/dp/0307749126)
 - [Management 101](https://app.pluralsight.com/library/courses/management-101)
 - [Becoming a Change Leader](https://app.pluralsight.com/library/courses/becoming-change-leader)
+- [Understanding and Applying Leadership Styles](https://app.pluralsight.com/library/courses/understanding-applying-leadership-styles)
 - [Prioritizing Tasks and Managing Time for Greater Productivity](https://app.pluralsight.com/library/courses/prioritizing-tasks-managing-time-greater-productivity)
 - [Masterful Leaders – The Leader as Coach, Mentor and Teacher](https://gothamculture.com/2019/04/11/masterful-leaders-the-leader-coach-mentor-teacher)
