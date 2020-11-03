@@ -21,3 +21,4 @@
 - [GitHub - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://github.com/keyvanakbary/learning-notes/blob/master/books/the-managers-path.md)
 - [Amazon - How to Work for an Idiot, Revised and Expanded with More Idiots, More Insanity, and More Incompetency: Survive and Thrive Without Killing Your Boss](https://www.amazon.com/Revised-Expanded-Idiots-Insanity-Incompetency-ebook/dp/B07J1FVZZ1)
 - [Amazon - Getting More: How to Negotiate to Achieve Your Goals in the Real World](https://www.amazon.com/Getting-More-Negotiate-Achieve-Goals/dp/0307749126)
+- [Management 101](https://app.pluralsight.com/library/courses/management-101)
