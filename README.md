@@ -45,6 +45,8 @@
 - [Management 101](https://app.pluralsight.com/library/courses/management-101)
 - [Moving from Technical Professional to Management](https://app.pluralsight.com/library/courses/moving-technical-professional-management)
 - [Becoming a Change Leader](https://app.pluralsight.com/library/courses/becoming-change-leader)
+- [Leading with Emotional Intelligence](https://app.pluralsight.com/library/courses/leading-emotional-intelligence)
 - [Understanding and Applying Leadership Styles](https://app.pluralsight.com/library/courses/understanding-applying-leadership-styles)
 - [Prioritizing Tasks and Managing Time for Greater Productivity](https://app.pluralsight.com/library/courses/prioritizing-tasks-managing-time-greater-productivity)
+- [Time Management – Maximizing Your Productivity](https://app.pluralsight.com/library/courses/maximizing-your-productivity-time-management)
 - [Masterful Leaders – The Leader as Coach, Mentor and Teacher](https://gothamculture.com/2019/04/11/masterful-leaders-the-leader-coach-mentor-teacher)
