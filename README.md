@@ -55,3 +55,4 @@
 - [Developing a Team and Its Culture](https://app.pluralsight.com/library/courses/developing-team-culture)
 - [Leadership and Communication Skills for Software Engineers](https://app.pluralsight.com/library/courses/leadership-communication-software-engineers)
 - [Masterful Leaders – The Leader as Coach, Mentor and Teacher](https://gothamculture.com/2019/04/11/masterful-leaders-the-leader-coach-mentor-teacher)
+- [Are You Their Coach, Mentor, Counselor or Consultant?](https://www.youtube.com/watch?v=e7V5JGRrQ6g)
