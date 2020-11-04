@@ -56,3 +56,6 @@
 - [Leadership and Communication Skills for Software Engineers](https://app.pluralsight.com/library/courses/leadership-communication-software-engineers)
 - [Masterful Leaders – The Leader as Coach, Mentor and Teacher](https://gothamculture.com/2019/04/11/masterful-leaders-the-leader-coach-mentor-teacher)
 - [Are You Their Coach, Mentor, Counselor or Consultant?](https://www.youtube.com/watch?v=e7V5JGRrQ6g)
+- [What's the difference between coaching and mentoring?](https://www.youtube.com/watch?v=K88mKpKSvfU)
+- [Know the Difference Between Coaching and Mentoring](https://www.kent.edu/yourtrainingpartner/know-difference-between-coaching-and-mentoring)
+- [What is the Difference Between a Mentor and Coach?](https://smallbiztrends.com/2016/02/difference-mentor-coach.html)
