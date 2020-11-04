@@ -9,6 +9,7 @@
   - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](#the-managers-path-a-guide-for-tech-leaders-navigating-growth-and-change)
 - [Courses](#courses)
   - [Management 101](#management-101)
+  - [Becoming a Change Leader](#becoming-a-change-leader)
 - [Topics](#topics)
   - [Mentor](#mentor)
   - [Coach](#coach)
@@ -25,6 +26,8 @@
 ## Courses
 
 ### Management 101
+
+### Becoming a Change Leader
 
 ## Topics
 
