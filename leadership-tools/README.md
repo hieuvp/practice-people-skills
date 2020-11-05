@@ -10,6 +10,8 @@
 - [Counselor](#counselor)
 - [Consultant](#consultant)
 - [Teacher](#teacher)
+- [Training](#training)
+- [Therapy](#therapy)
 - [Brainstorm](#brainstorm)
 - [References](#references)
 
@@ -24,6 +26,10 @@
 ## Consultant
 
 ## Teacher
+
+## Training
+
+## Therapy
 
 ## Brainstorm
 
