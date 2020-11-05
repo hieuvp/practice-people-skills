@@ -5,32 +5,32 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Coach](#coach)
-- [Mentor](#mentor)
-- [Counselor](#counselor)
-- [Consultant](#consultant)
-- [Teacher](#teacher)
+- [Coaching](#coaching)
+- [Mentoring](#mentoring)
+- [Counselling](#counselling)
+- [Consulting](#consulting)
+- [Teaching](#teaching)
 - [Training](#training)
 - [Therapy](#therapy)
-- [Brainstorm](#brainstorm)
+- [Brainstorming](#brainstorming)
 - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Coach
+## Coaching
 
-## Mentor
+## Mentoring
 
-## Counselor
+## Counselling
 
-## Consultant
+## Consulting
 
-## Teacher
+## Teaching
 
 ## Training
 
 ## Therapy
 
-## Brainstorm
+## Brainstorming
 
 ## References
