@@ -11,10 +11,6 @@
   - [Management 101](#management-101)
   - [Becoming a Change Leader](#becoming-a-change-leader)
 - [Topics](#topics)
-  - [Mentor](#mentor)
-  - [Coach](#coach)
-  - [Teacher](#teacher)
-  - [Brainstorm](#brainstorm)
 - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -30,14 +26,6 @@
 ### Becoming a Change Leader
 
 ## Topics
-
-### Mentor
-
-### Coach
-
-### Teacher
-
-### Brainstorm
 
 ## References
 
